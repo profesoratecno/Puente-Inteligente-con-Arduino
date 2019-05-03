@@ -3,3 +3,5 @@
 <img src="Dibujo_SketchUp2015/DibujoPuente.jpg" width="400" align="center">
 
 <img src="Dibujo_SketchUp2015/DibujoPuente2.jpg" width="400" align="center">
+
+[+INFO](https://github.com/profesoratecno/Puente-Inteligente-con-Arduino/wiki)
